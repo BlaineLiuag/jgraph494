@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Check if an input was provided
 echo "QR Code Generator"
 echo "Please provide input string: "
 read input_string
